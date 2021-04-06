@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning 
 - 👯 I’m looking to collaborate on Neural Networks 
 - 🤔 I’m looking for help with Data Analytics
-- 💬 Ask me about Calclus 
-- 📫 How to reach me: gdudeja6@gatech.edu
+- 💬 Ask me about Calculus 
+- 📫 How to reach me: gautam.dudeja@gatech.edu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
